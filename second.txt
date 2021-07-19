@@ -1,0 +1,6 @@
+Skills:
+1) cPP
+2) OOPS
+3) DBMS
+4) Flutter
+
